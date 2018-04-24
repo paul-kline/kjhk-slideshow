@@ -16,4 +16,8 @@ Main features include:
 
 
 view the hosted version here:
-https://paul-kline.github.io/kjhk-slideshow/
+https://paul-kline.github.io/kjhk-slideshow/ (currently broken due to now-playing api not serving over https)
+
+view the unencrypted slideshow here:
+http://www.kjhk.org/slideshow/slideshow.html
+

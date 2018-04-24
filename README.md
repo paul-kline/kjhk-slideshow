@@ -13,3 +13,7 @@ Main features include:
 
 1.  Continuous, uninterupted showcase with over 12 hours of content before repeating
 1.  Advanced YouTube api usage to query all channel videos and each length
+
+
+view the hosted version here:
+https://paul-kline.github.io/kjhk-slideshow/
